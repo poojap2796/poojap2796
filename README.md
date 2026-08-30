@@ -1,18 +1,16 @@
 ## Hi there, I'm Pooja 👋
 
 <div align="center">
-  <body style="background-color: #000000;">
+ 
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&pause=1000&color=2A46F7&background=18ABFF00&width=435&height=52&lines=Data+Analyst+%7C+Business+Intelligence+%7C;Turning+Data+to+Actionable+Insights;PowerBI+%7C+SQL+%7C+Commerical+Reporting;5%2B+Years+in+Analytics+and+Insights" alt="Typing SVG" /></a>
-  </body>
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/pooja-pai"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:ppai2796@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
