@@ -32,10 +32,10 @@ I'm open to international opportunities and relocation, and excited to bring my 
 ### [🏆 Check Out My Full Portfolio Website](https://poojap2796.github.io/)
       
 ## 🔭 What I'm Currently Working On 
-
+<ul>
   🔹📱 Telecom Customer Churn Analysis: Identifying key churn drivers and customer patterns using SQL, Excel, Python & Power BI
   🔹🛍️ Sales RFM Analysis: Segmenting customers based on Recency, Frequency & Monetary value to uncover purchasing patterns and customer segments
-
+</ul>
 
 ## 🌱 Currently Learning 
 
