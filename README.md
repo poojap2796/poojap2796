@@ -38,12 +38,12 @@ I'm open to international opportunities and relocation, and excited to bring my 
 </ul>
 
 ## 🌱 Currently Learning 
-
-🐍 Python for Analytics: Exploring data analysis, automation & visualization
-🗄️ Advanced SQL: Developing skills in complex queries and data transformation
-📊 Advanced Power BI: Exploring DAX, data modeling & advanced dashboards
-☁️ Cloud Analytics: Exploring Azure data platforms and modern data workflows
-
+<ul>
+🐍 Python for Analytics: Exploring data analysis, automation & visualization <br>
+🗄️ Advanced SQL: Developing skills in complex queries and data transformation<br>
+📊 Advanced Power BI: Exploring DAX, data modeling & advanced dashboards<br>
+☁️ Cloud Analytics: Exploring Azure data platforms and modern data workflows<br>
+</ul>
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
