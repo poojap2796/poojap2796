@@ -15,7 +15,7 @@
 
 ## 🚀 About Me 
 <ul>
-  <li>7+ years of experience in MIS & Data Analytics</li>
+  🔹7+ years of experience in MIS & Data Analytics</li>
   <li>Strong working knowledge of Excel, SQL & Power BI</li>
   <li>Experience in Commercial & Financial reporting and analysis</li>
   <li>Dashboard development, Reporting automation & Data visualization</li>
