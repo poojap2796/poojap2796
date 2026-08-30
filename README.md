@@ -14,25 +14,33 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+🔹 5+ years of experience in MIS & Data Analytics
+🔹 Strong working knowledge of Excel, SQL & Power BI
+🔹 Experience in Commercial & Financial reporting and analysis
+🔹 Dashboard development, Reporting automation & Data visualization
+🔹 Data Quality Management, Data Sanitization & Ingestion
+🔹 Transforming complex data into meaningful insights and actionable reports
+🔹 Passionate about solving business problems through data-driven thinking
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Beyond data, I'm an avid traveller and love exploring new places, cultures, and perspectives. I've travelled extensively across India, Bhutan, and Europe, and I'm always excited to discover new destinations and experiences. 🌍✈️
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I'm open to international opportunities and relocation, and excited to bring my experience to new environments while continuing to learn, grow, and take on new challenges.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://poojap2796.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- 📱 Telecom Customer Churn Analysis: Identifying key churn drivers and customer patterns using SQL, Excel, Python & Power BI
+- 🛍️ Sales RFM Analysis: Segmenting customers based on Recency, Frequency & Monetary value to uncover purchasing patterns and customer segments
+
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+🐍 Python for Analytics: Exploring data analysis, automation & visualization
+🗄️ Advanced SQL: Developing skills in complex queries and data transformation
+📊 Advanced Power BI: Exploring DAX, data modeling & advanced dashboards
+☁️ Cloud Analytics: Exploring Azure data platforms and modern data workflows
 
 ## 🛠️ Technical Skillset
 
@@ -41,8 +49,8 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
@@ -50,7 +58,6 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
