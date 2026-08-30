@@ -15,13 +15,13 @@
 
 ## 🚀 About Me 
 <ul>
-🔹 **7+ years** of experience in **MIS & Data Analytics**<br>
-🔹 Strong working knowledge of **Excel, SQL & Power BI**<br>
-🔹 Experience in **Commercial & Financial reporting and analysis**<br>
-🔹 **Dashboard development, Reporting automation & Data visualization**<br>
-🔹 **Data Quality Management, Data Sanitization & Ingestion**<br>
-🔹 Transforming complex data into **meaningful insights and actionable reports**<br>
-🔹 Passionate about solving business problems through **data-driven thinking**
+🔹 5+ years of experience in MIS & Data Analytics<br>
+🔹 Strong working knowledge of Excel, SQL & Power BI<br>
+🔹 Experience in **Commercial & Financial reporting and analysis<br>
+🔹 Dashboard development, Reporting automation & Data Visualization<br>
+🔹 Data Quality Management, Data Maintanence & Ingestion<br>
+🔹 Transforming complex data into meaningful insights and actionable reports<br>
+🔹 Passionate about solving business problems through data-driven thinking
 </ul>
 
 Beyond data, I'm an avid traveller and love exploring new places, cultures, and perspectives. I've travelled extensively across India, Bhutan, and Europe, and I'm always excited to discover new destinations and experiences. 🌍✈️
