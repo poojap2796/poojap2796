@@ -29,7 +29,7 @@ Beyond data, I'm an avid traveller and love exploring new places, cultures, and 
 I'm open to international opportunities and relocation, and excited to bring my experience to new environments while continuing to learn, grow, and take on new challenges.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://poojap2796.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/poojap2796/poojap2796.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 <ul>
