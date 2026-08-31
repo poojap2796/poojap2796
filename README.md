@@ -34,7 +34,7 @@ I'm open to international opportunities and relocation, and excited to bring my 
 ## 🔭 What I'm Currently Working On 
 <ul>
   🔹📱 <b>Telecom Customer Churn Analysis:</b> Identifying key churn drivers and customer patterns using SQL, Excel, Python & Power BI <br>
-  🔹🛍️ Sales RFM Analysis: Segmenting customers based on Recency, Frequency & Monetary value to uncover purchasing patterns and customer segments <br>
+  🔹🛍️ <b>Sales RFM Analysis:</b> Segmenting customers based on Recency, Frequency & Monetary value to uncover purchasing patterns and customer segments <br>
 </ul>
 
 ## 🌱 Currently Learning 
